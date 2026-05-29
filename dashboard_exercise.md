@@ -35,7 +35,7 @@ Time horizon:
 
 ***
 
-## Required Data Inputs
+## Data Inputs
 ### 1. Current Stock
 
 At SKU–Warehouse level:
@@ -74,6 +74,11 @@ At SKU–Warehouse level:
 
 * Required DoC (Days of Cover)
 * Safety stock DoC
+  
+***
+## Data Cleaning
+* Missing Skus in Master-Sku
+All missing SKU in master-sku is noncore and Fashion (L/XL size).
 
 ***
 ## Dashboard Views
