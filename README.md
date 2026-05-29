@@ -3,13 +3,13 @@
 ## Overview
 This take-home test evaluates a candidate’s analysis and strategic thinking skills through 2 main exercises:
 
-- Dashboard building
+- Analysis Dashboard
 - Inventory Network Management Framework
 
 Candidates are allowed to use AI tools to support their work. However, during the interview, you should be prepared to explain the concepts, analysis choices, and solution approach you used in your submission.
 
 ## Scoring 🧮
-- Dashboard building : 40 points
+- Analysis Dashboard : 40 points
 - Inventory Network Management Framework : 40 points
 - Presentation and critical thinking: 20 points. Be prepared to present your approach during the interview. There is no need for a fancy PPT, just organize your thoughts in a spreadsheet or any format of your choice.
 
