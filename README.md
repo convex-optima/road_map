@@ -26,7 +26,7 @@ Please submit your work by email your exercise to PIC HR.
     ├── sample_forecast.parquet
     ├── sample_inbound.parquet
     ├── sample_stock.parquet
-    ├── sample_stock.parquet
     ├── sample_doc.parquet
+    ├── master_sku.parquet
     └── sample_sku.parquet
 ```
