@@ -24,8 +24,7 @@ The dashboard should cover inventory health at:
 * Optional aggregation by:
 * Warehouse
 * Category / cluster
-* Brand
-* Seller / business unit
+* Business segment
 * Inventory status group
 
 Time horizon:
@@ -44,8 +43,7 @@ At SKU–Warehouse level:
 * SKU ID
 * Warehouse ID / name
 * Current on-hand stock
-* Available stock
-* Inventory snapshot date/time
+* Inventory snapshot L14D and L30D
 
 ### 2. Forecast Data for Next 10 Days
 
@@ -98,7 +96,6 @@ High-level KPIs:
 Detailed table with:
 
 * SKU ID
-* SKU name
 * Warehouse
 * Current stock
 * Forecast next 10 days
