@@ -42,11 +42,9 @@ Time horizon:
 At SKU–Warehouse level:
 
 * SKU ID
-* SKU name
 * Warehouse ID / name
 * Current on-hand stock
 * Available stock
-* Reserved / blocked stock *(if available)*
 * Inventory snapshot date/time
 
 ### 2. Forecast Data for Next 10 Days
@@ -69,7 +67,7 @@ At SKU master level:
 * SKU ID
 * Category / sub-category
 * Brand
-* Product status *(active/inactive, if available)*
+* Product status *(active/inactive)*
 * Size / storage type *(if available)*
 
 ### 5. Inventory Policy / Target Parameters
