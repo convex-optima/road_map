@@ -27,20 +27,13 @@ Recently, Network Management Team received the request to build some dashboards 
 
 Current basic data in each Dashboard
 
-| Warehouse capacity  By datetime, by WH: - Warehouse Total capacity (CBM / qty) 
-Used capacity 
-Utilization % 
-Inbound planned next 7 days 
-Outbound planned next 7 days 
-Storage type / size profile 
-| Inventory Storage By SKU-WH: Available stock on-hand
-Inbound ETA
-Outbound forecast / sales forecast 
-Days of cover (DoC) 
-Safety stock by DoC 
-Last-14/30 days sales rate |
-| :---- | :---- |
-| **Stock Transfer plan (by Inventory Allocation Model)** Source WH Destination WH Transfer lead time Transfer qty by SKU Move-transfer capacity | **Cross-order performance** Cross-order rate Units fulfilled by cross-WH and by best-WH Low stock incidence Late/or low inbound qty Late/or low move-transfer qty |
+| **Warehouse capacity **                                                                                                                                                                                         | **Inventory Storage **                                                                                                                                                                      |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **By datetime, by WH:**<br> - Warehouse total capacity (CBM / qty)<br>- Used capacity<br>- Utilization %<br>- Inbound planned next 7 days<br>- Outbound planned next 7 days<br>- Storage type / size profile | **By SKU-WH:**<br>- Available stock on-hand<br>- Inbound ETA<br>- Outbound forecast / sales forecast<br>- Days of cover (DoC)<br>- Safety stock by DoC<br>- Last-14/30 days sales rate      |
+|**Stock Transfer plan (by Inventory Allocation Model)**  | **Cross-order performance   **                                                                                                                                                                        |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| - Source WH<br>- Destination WH<br>- Transfer lead time<br>- Transfer qty by SKU<br>- Move-transfer capacity                                    |- Cross-order rate<br>- Units fulfilled by cross-WH and by best-WH<br>- Low stock incidence<br>- Late/or low inbound qty<br>- Late/or low move-transfer qty |
+
 
 However, the team doesn't know which metrics should be recommended, what workflow / decision logic they should propose for this **Inventory Management Framework**? 
 
